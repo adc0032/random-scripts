@@ -6,7 +6,7 @@
 #program sorts long bed files with multiple chromosomes by chr
 
 #Command line object 1: file with list of chromosomes
-#if wanted to remove this step: awk '{print $1}' $1 | uniq #assums sorted file
+#if wanted to remove this step: awk '{print $1}' $1 | uniq #assumes sorted file
 #Command line object 2: input filename
 #Command line object 3: output filename
 
